@@ -8,3 +8,5 @@
 ประชาชนสามารถเป็นเจ้าของระบบการเงินได้โดยใช้เทคโนโลยี
 
 # Blockchain คืออะไร?
+<img src="../../imgs/Database, a computer for storing data.png" alt="Alt text" width="500px">
+
