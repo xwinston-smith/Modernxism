@@ -26,4 +26,4 @@ In this presentation, I will demonstrate how we can use blockchain technology to
 #### Content Lists
 
 1. [EN-Introduction](./presentation/TH-introduction)
-2. [TH-Introduction](./presentation/TH-Introduction.md)
+2. [TH-Introduction](./src/github_preview/docs/TH-Introduction.md)
