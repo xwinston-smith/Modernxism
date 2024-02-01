@@ -4,8 +4,7 @@
 
 คืนอำนาจให้กับประชาชนด้วยการใช้ Blockchain Technology และ คัดสรรค์อำนาจผ่านระบบการเงินและเศรษฐกิจ
 
-![ModernxisFigure 1](./src/imgs/Modernxism%20Figure%201.png)
-
+<img src="./src/imgs/Modernxism%20Figure%201.png" width="500px"/>
 
 #### Preface
 
